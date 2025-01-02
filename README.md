@@ -1,12 +1,17 @@
 # <div align="left">Edward Ajayi</div>
 
-<div>
-  <img src = "https://drive.google.com/file/d/1Kcd-QXBSZ227dpuecoGtJETCVMehaL6o/view">
-  <div align="right">
-  <a href="[https://your-link-to-cv.com](https://drive.google.com/file/d/1Cc_scFxJ2sAbcTg8fjQbXdCDWh12qis7/view?usp=sharing)">CV</a> |
-  <a href="#" target="_blank">Publications</a> |
-  <a href="#" target="_blank">Blogs</a>
-</div>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <!-- Left: Profile Image -->
+  <div>
+    <img src="Edward Ajayi (1).jpg" alt="Your Name" style="border-radius: 50%; width: 150px; height: 150px;">
+  </div>
+
+  <!-- Right: Hyperlinks -->
+  <div style="text-align: right;">
+    <a href="https://your-link-to-cv.com" target="_blank">CV</a> |
+    <a href="https://your-link-to-publications.com" target="_blank">Publications</a> |
+    <a href="https://your-link-to-blogs.com" target="_blank">Blogs</a>
+  </div>
 </div>
 
 ## About Me
