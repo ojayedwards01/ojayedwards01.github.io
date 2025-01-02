@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <!-- Left: Profile Image -->
   <div>
-    <img src="Edward Ajayi (1).jpg" alt="Your Name" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="edward.jpg" alt="Your Name" style="border-radius: 50%; width: 150px; height: 150px;">
   </div>
 
   <!-- Right: Hyperlinks -->
@@ -16,7 +16,7 @@
 
 ## About Me
 
-Welcome to my personal portfolio! This repository showcases my work and projects majorly in Data Science, Machine learning, and Natural Language Processing. I am currently pursuing my master's degree in Engineering Artificial Intelligence at Carnegie Mellon University Africa.
+Welcome to my personal portfolio! This page showcases my work and projects majorly in Data Science, Machine learning, and Natural Language Processing. I am currently pursuing my master's degree in Engineering Artificial Intelligence at Carnegie Mellon University Africa.
 
 - **Name:** [Your Name]
 - **Degree:** MSc in Engineering Artificial Intelligence (Carnegie Mellon University Africa)
